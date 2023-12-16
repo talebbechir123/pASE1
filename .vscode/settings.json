@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "__locale": "c",
+        "chrono": "c",
+        "functional": "c",
+        "__node_handle": "c",
+        "__bit_reference": "c",
+        "atomic": "c",
+        "bitset": "c",
+        "deque": "c",
+        "__memory": "c",
+        "limits": "c",
+        "locale": "c",
+        "optional": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "vector": "c",
+        "*.tcc": "c",
+        "charconv": "c",
+        "format": "c",
+        "array": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "client.h": "c",
+        "replication.h": "c",
+        "resp.h": "c"
+    }
+}
